@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shreyas Somashekar
 - 👀 I’m interested in LLM and LLMOps
 - 🌱 I’m currently learning the LLMOps space.
-- 💞️ I’m looking to collaborate on LLM
+- 💞️ I’m looking to collaborate on building applications powered by LLMs.
 - 📫 How to reach me sher.somas@gmail.com
 
 <!---
